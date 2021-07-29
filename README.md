@@ -6,7 +6,7 @@
 
 <p align="center">
 
-  <img src="https://telegra.ph/file/d6e6b1fcf3252659923fd.jpg"
+  <img src= "https://telegra.ph/file/d6e6b1fcf3252659923fd.jpg"
 
 </p>
 
