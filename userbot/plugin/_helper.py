@@ -82,7 +82,7 @@ async def cmd_list(event):
 
         else:
 
-            help_string = """Userbot Helper.. \nProvided by [ArianaUserBot](https://t.me/BinBhaiProject Helper to reveal all the commands`"""
+            help_string = """Userbot Helper.. \nProvided by [Delirious UserBot](https://t.me/missdelirioussupport Helper to reveal all the commands`"""
 
             results = await bot.inline_query(  # pylint:disable=E0602
 
