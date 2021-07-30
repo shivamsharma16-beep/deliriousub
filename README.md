@@ -36,13 +36,21 @@
 
 ## Deploy To Heroku🚀
 
-- Get All The Necessary Variables And Deploy To Heroku.
+-  Get All The Necessary Variables And Deploy To Heroku.
 
-- Some Mandatory Variables Are listed [Here](#Variables)
+-  Some Mandatory Variables Are Listed [Here](#Variables)
 
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shivamsharma16-beep/deliriousub)
 
 ------
+
+## Deploy To Glitch✨
+
+- Get All The Necessary Variables And Deploy To Glitch
+
+-Some Mandatory Variables Are Listed [Here](#Variables)
+
+-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/shivamsharma16-beep/deliriousub)
 
 ## Variables
 
@@ -58,7 +66,7 @@
 
 Method
 
-[![Run on Repl.it](https://repl.it/badge/github/shivamsharma16-beep/deliriousub/)]https://replit.com/@shivamsharma161/generatestringsession)
+[![Run on Repl.it](https://repl.it/badge/github/shivamsharma16-beep/deliriousub/)(https://replit.com/@shivamsharma161/generatestringsession)
 
 ------
 
