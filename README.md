@@ -66,6 +66,8 @@
 
 ## String Session
 
+Genarate String Session No Other Bot String Session Will Work!
+
 [![Run on Repl.it](https://repl.it/badge/github/shivamsharma16-beep/deliriousub/)](https://repl.it/@shivamsharma161/generatestringsession)
 
 
