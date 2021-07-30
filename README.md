@@ -48,9 +48,9 @@
 
 - Get All The Necessary Variables And Deploy To Glitch
 
--Some Mandatory Variables Are Listed [Here](#Variables)
+- Some Mandatory Variables Are Listed [Here](#Variables)
 
--[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/shivamsharma16-beep/deliriousub)
+- [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/shivamsharma16-beep/deliriousub)
 
 ## Variables
 
@@ -66,7 +66,7 @@
 
 Method
 
-[![Run on Repl.it](https://repl.it/badge/github/shivamsharma16-beep/deliriousub/)(https://replit.com/@shivamsharma161/generatestringsession)
+[![Run on Repl.it](https://replit.com/@shivamsharma161/generatestringsession)
 
 ------
 
